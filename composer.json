@@ -1,0 +1,21 @@
+{
+  "name": "tolollipop/tp6-cache",
+  "description": "tp6-cache",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "tolollipop",
+      "email": "tolollipop@gzlsf.cn"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0",
+    "topthink/framework": "^6.0.0"
+  },
+  "homepage": "https://github.com/tolollipop/tp6-captcha",
+  "autoload": {
+    "psr-4": {
+      "tolollipop\\cache\\": "src"
+    }
+  }
+}
